@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaleelhussaini
+<!---- 👋 Hi, I’m @khaleelhussaini
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
