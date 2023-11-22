@@ -9,4 +9,5 @@ khaleelhussaini/khaleelhussaini is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleelhussaini&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleelhussaini&langs_count=8)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaleelhussaini)](https://github.com/anuraghazra/github-readme-stats)
+
